@@ -1,11 +1,11 @@
 # Project 90: Small Business Automation
 
 **Category:** FinTech
-**Part of:** AutoMatrixLab — 100+ AI and automation apps
+**Part of:** AutoMatrixLab
 
 ## Overview
 
-NZ small businesses are being bled dry by subscription software — hundreds per month for technology they could own.
+A small business can end up paying for several overlapping subscriptions to run a single day of trading.
 
 ## Tech Stack
 
@@ -13,9 +13,27 @@ Supabase, PWA, Gmail API, ML (scikit-learn), Python, Stripe, GST Automation
 
 ## Demo
 
-🎬 **Watch the demo:** https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/videos/90.mp4
+**Taking orders and payments**
 
-🌐 **See it on the site:** https://automatrixlab.com/#applications
+[![The till](https://automatrixlab.com/platform-demos/posters/smallbiz/pos-till.jpg)](https://automatrixlab.com/adnan/small-business-automation#smallbiz-orders)
+
+**Stock and suppliers**
+
+[![Inventory](https://automatrixlab.com/platform-demos/posters/smallbiz/inventory.jpg)](https://automatrixlab.com/adnan/small-business-automation#smallbiz-stock)
+
+**The menu and what it costs**
+
+[![Menu Hub](https://automatrixlab.com/platform-demos/posters/smallbiz/menu-hub.jpg)](https://automatrixlab.com/adnan/small-business-automation#smallbiz-menu)
+
+**The kitchen and the dockets**
+
+[![The print server](https://automatrixlab.com/platform-demos/posters/smallbiz/printer-queue.jpg)](https://automatrixlab.com/adnan/small-business-automation#smallbiz-kitchen)
+
+**Customers and the owner's view**
+
+[![Auto Answer](https://automatrixlab.com/platform-demos/posters/smallbiz/auto-answer.jpg)](https://automatrixlab.com/adnan/small-business-automation#smallbiz-customers)
+
+🌐 **See it on the site:** https://automatrixlab.com/adnan/small-business-automation
 
 ## Access Full Source Code & Live Demo
 
@@ -25,7 +43,7 @@ This repository shows the project overview, tech stack, and demo link. For full 
 
 ## About AutoMatrixLab
 
-AutoMatrixLab is a research, education, and industry platform with over 100 AI and automation applications built in-house on local NVIDIA infrastructure. Every app was designed and deployed in the open — by one senior lecturer and his students — with no institutional funding.
+AutoMatrixLab is a research, education, and industry platform of AI and automation applications built in-house on local NVIDIA infrastructure. Every app was designed and deployed in the open.
 
 🌐 Website: https://automatrixlab.com
 📧 Contact: adnan.balloch@outlook.com
